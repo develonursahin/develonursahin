@@ -31,14 +31,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="600" src="https://scontent-ist1-1.xx.fbcdn.net/v/t39.30808-6/332073477_713577410434950_3741450438025106422_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=jQJtSfW9pgEAX9X2Rof&_nc_ht=scontent-ist1-1.xx&oh=00_AfDFxQf6TMo6Aj-aRfm4-EdzZtsiMLexiNQC6JuHGT6hGg&oe=64D20D98"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
