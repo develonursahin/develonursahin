@@ -11,13 +11,13 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/derinonursahin" target="_blank">
+  <a href="https://linkedin.com/in/develonursahin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linktr.ee/derinonursahin" target="_blank">
+  <a href="https://linktr.ee/develnonursahin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="37" height="25" alt="linktree logo"  />
   </a>
-  <a href="https://medium.com/@derinonursahin" target="_blank">
+  <a href="https://medium.com/@develonursahin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
   </a>
   <a href="derinonursahin@gmail.com" target="_blank">
@@ -55,8 +55,15 @@
 
 ###
 
+[![](https://visitcount.itsvg.in/api?id=develonursahin&icon=2&color=0)](https://visitcount.itsvg.in)
+
+###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=derinonursahin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+![](https://github-readme-streak-stats.herokuapp.com/?user=develonursahin&theme=swift&hide_border=false)<br/>
 </div>
 
 ###
+
+<h3 align="left">💰 You can help me by Donating</h3> 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/develonur) 
