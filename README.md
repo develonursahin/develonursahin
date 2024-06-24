@@ -1,5 +1,6 @@
 # 💫 About Me:
-📚 I’m currently learning Flutter.<br>A passionate mobile developer from Turkey.<br>
+Flutter Developer & AI Enthusiast 📱 | Passionate about Crafting Exceptional Mobile Experiences 🚀
+Hello, I'm Onur Şahin, a mobile app enthusiast with a strong focus on Flutter, the key to modern mobile experiences. I'm dedicated to creating user-friendly interfaces and integrating AI to make our apps smarter and more personalized. Let's connect, collaborate, and build amazing things together!
 
 
 ## 🌐 Socials:
